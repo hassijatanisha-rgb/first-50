@@ -1,0 +1,27 @@
+name: Verify release artifact
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Verify public artifact
+        run: |
+          test -f index.html
+          test -f privacy.html
+          test -f terms.html
+          test -f support.html
+          test -f ATTRIBUTIONS.md
+          test "$(find . -name reel.mp4 | wc -l)" -eq 50
+          test "$(find . -name caption.txt | wc -l)" -eq 50
+          test "$(grep -c '<article class="card"' index.html)" -eq 50
+          ! find . -name '*.zip' -print -quit | grep -q .
+          ! grep -R -i -E 'Samantha|Daniel|macOS speech|/usr/bin/say|chatgpt.site' --include='*.html' --include='*.json' --include='*.md' .

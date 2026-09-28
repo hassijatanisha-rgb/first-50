@@ -1,0 +1,852 @@
+[
+  {
+    "id": "science-01",
+    "title": "Why metal feels colder",
+    "theme": "science",
+    "duration_seconds": 16.291667,
+    "voice": "Piper LJSpeech high",
+    "video": "science/science-01/reel.mp4",
+    "caption": "science/science-01/caption.txt",
+    "checks": {
+      "video": "1080x1920 H.264",
+      "audio": "AAC",
+      "mean_volume_db": -17.4,
+      "peak_db": -0.1,
+      "duration": "passed",
+      "licensed_voice_checksum": "passed"
+    }
+  },
+  {
+    "id": "science-02",
+    "title": "The wheel that resists",
+    "theme": "science",
+    "duration_seconds": 16.75,
+    "voice": "Piper LJSpeech high",
+    "video": "science/science-02/reel.mp4",
+    "caption": "science/science-02/caption.txt",
+    "checks": {
+      "video": "1080x1920 H.264",
+      "audio": "AAC",
+      "mean_volume_db": -17.7,
+      "peak_db": -0.2,
+      "duration": "passed",
+      "licensed_voice_checksum": "passed"
+    }
+  },
+  {
+    "id": "science-03",
+    "title": "Why round windows?",
+    "theme": "science",
+    "duration_seconds": 18.541667,
+    "voice": "Piper LJSpeech high",
+    "video": "science/science-03/reel.mp4",
+    "caption": "science/science-03/caption.txt",
+    "checks": {
+      "video": "1080x1920 H.264",
+      "audio": "AAC",
+      "mean_volume_db": -18.1,
+      "peak_db": -0.4,
+      "duration": "passed",
+      "licensed_voice_checksum": "passed"
+    }
+  },
+  {
+    "id": "science-04",
+    "title": "Steel on water?",
+    "theme": "science",
+    "duration_seconds": 16.541667,
+    "voice": "Piper LJSpeech high",
+    "video": "science/science-04/reel.mp4",
+    "caption": "science/science-04/caption.txt",
+    "checks": {
+      "video": "1080x1920 H.264",
+      "audio": "AAC",
+      "mean_volume_db": -17.6,
+      "peak_db": -0.5,
+      "duration": "passed",
+      "licensed_voice_checksum": "passed"
+    }
+  },
+  {
+    "id": "science-05",
+    "title": "A bubble's rainbow",
+    "theme": "science",
+    "duration_seconds": 18.333333,
+    "voice": "Piper LJSpeech high",
+    "video": "science/science-05/reel.mp4",
+    "caption": "science/science-05/caption.txt",
+    "checks": {
+      "video": "1080x1920 H.264",
+      "audio": "AAC",
+      "mean_volume_db": -17.9,
+      "peak_db": -0.4,
+      "duration": "passed",
+      "licensed_voice_checksum": "passed"
+    }
+  },
+  {
+    "id": "science-06",
+    "title": "Noise cancellation's catch",
+    "theme": "science",
+    "duration_seconds": 18.291667,
+    "voice": "Piper LJSpeech high",
+    "video": "science/science-06/reel.mp4",
+    "caption": "science/science-06/caption.txt",
+    "checks": {
+      "video": "1080x1920 H.264",
+      "audio": "AAC",
+      "mean_volume_db": -18.5,
+      "peak_db": -0.2,
+      "duration": "passed",
+      "licensed_voice_checksum": "passed"
+    }
+  },
+  {
+    "id": "science-07",
+    "title": "The useful gap",
+    "theme": "science",
+    "duration_seconds": 19.083333,
+    "voice": "Piper LJSpeech high",
+    "video": "science/science-07/reel.mp4",
+    "caption": "science/science-07/caption.txt",
+    "checks": {
+      "video": "1080x1920 H.264",
+      "audio": "AAC",
+      "mean_volume_db": -17.8,
+      "peak_db": -0.2,
+      "duration": "passed",
+      "licensed_voice_checksum": "passed"
+    }
+  },
+  {
+    "id": "science-08",
+    "title": "Pressure changes boiling",
+    "theme": "science",
+    "duration_seconds": 18.083333,
+    "voice": "Piper LJSpeech high",
+    "video": "science/science-08/reel.mp4",
+    "caption": "science/science-08/caption.txt",
+    "checks": {
+      "video": "1080x1920 H.264",
+      "audio": "AAC",
+      "mean_volume_db": -17.3,
+      "peak_db": -0.3,
+      "duration": "passed",
+      "licensed_voice_checksum": "passed"
+    }
+  },
+  {
+    "id": "science-09",
+    "title": "Stars aren't flickering",
+    "theme": "science",
+    "duration_seconds": 19.625,
+    "voice": "Piper LJSpeech high",
+    "video": "science/science-09/reel.mp4",
+    "caption": "science/science-09/caption.txt",
+    "checks": {
+      "video": "1080x1920 H.264",
+      "audio": "AAC",
+      "mean_volume_db": -17.5,
+      "peak_db": -0.1,
+      "duration": "passed",
+      "licensed_voice_checksum": "passed"
+    }
+  },
+  {
+    "id": "science-10",
+    "title": "Microwave hot spots",
+    "theme": "science",
+    "duration_seconds": 17.916667,
+    "voice": "Piper LJSpeech high",
+    "video": "science/science-10/reel.mp4",
+    "caption": "science/science-10/caption.txt",
+    "checks": {
+      "video": "1080x1920 H.264",
+      "audio": "AAC",
+      "mean_volume_db": -17.9,
+      "peak_db": -0.2,
+      "duration": "passed",
+      "licensed_voice_checksum": "passed"
+    }
+  },
+  {
+    "id": "psychology-01",
+    "title": "Familiar is not learned",
+    "theme": "psychology",
+    "duration_seconds": 18.333333,
+    "voice": "Piper LJSpeech high",
+    "video": "psychology/psychology-01/reel.mp4",
+    "caption": "psychology/psychology-01/caption.txt",
+    "checks": {
+      "video": "1080x1920 H.264",
+      "audio": "AAC",
+      "mean_volume_db": -16.9,
+      "peak_db": -0.1,
+      "duration": "passed",
+      "licensed_voice_checksum": "passed"
+    }
+  },
+  {
+    "id": "psychology-02",
+    "title": "Suddenly everywhere",
+    "theme": "psychology",
+    "duration_seconds": 18.416667,
+    "voice": "Piper LJSpeech high",
+    "video": "psychology/psychology-02/reel.mp4",
+    "caption": "psychology/psychology-02/caption.txt",
+    "checks": {
+      "video": "1080x1920 H.264",
+      "audio": "AAC",
+      "mean_volume_db": -17.4,
+      "peak_db": -0.2,
+      "duration": "passed",
+      "licensed_voice_checksum": "passed"
+    }
+  },
+  {
+    "id": "psychology-03",
+    "title": "The first number",
+    "theme": "psychology",
+    "duration_seconds": 19.083333,
+    "voice": "Piper LJSpeech high",
+    "video": "psychology/psychology-03/reel.mp4",
+    "caption": "psychology/psychology-03/caption.txt",
+    "checks": {
+      "video": "1080x1920 H.264",
+      "audio": "AAC",
+      "mean_volume_db": -17.6,
+      "peak_db": -0.1,
+      "duration": "passed",
+      "licensed_voice_checksum": "passed"
+    }
+  },
+  {
+    "id": "psychology-04",
+    "title": "The money is gone",
+    "theme": "psychology",
+    "duration_seconds": 16.708333,
+    "voice": "Piper LJSpeech high",
+    "video": "psychology/psychology-04/reel.mp4",
+    "caption": "psychology/psychology-04/caption.txt",
+    "checks": {
+      "video": "1080x1920 H.264",
+      "audio": "AAC",
+      "mean_volume_db": -17.4,
+      "peak_db": -0.3,
+      "duration": "passed",
+      "licensed_voice_checksum": "passed"
+    }
+  },
+  {
+    "id": "psychology-05",
+    "title": "Same choice, new frame",
+    "theme": "psychology",
+    "duration_seconds": 18.416667,
+    "voice": "Piper LJSpeech high",
+    "video": "psychology/psychology-05/reel.mp4",
+    "caption": "psychology/psychology-05/caption.txt",
+    "checks": {
+      "video": "1080x1920 H.264",
+      "audio": "AAC",
+      "mean_volume_db": -17.7,
+      "peak_db": -0.3,
+      "duration": "passed",
+      "licensed_voice_checksum": "passed"
+    }
+  },
+  {
+    "id": "psychology-06",
+    "title": "A one-second ping?",
+    "theme": "psychology",
+    "duration_seconds": 18.625,
+    "voice": "Piper LJSpeech high",
+    "video": "psychology/psychology-06/reel.mp4",
+    "caption": "psychology/psychology-06/caption.txt",
+    "checks": {
+      "video": "1080x1920 H.264",
+      "audio": "AAC",
+      "mean_volume_db": -18.1,
+      "peak_db": -0.1,
+      "duration": "passed",
+      "licensed_voice_checksum": "passed"
+    }
+  },
+  {
+    "id": "psychology-07",
+    "title": "Heard it before?",
+    "theme": "psychology",
+    "duration_seconds": 18.958333,
+    "voice": "Piper LJSpeech high",
+    "video": "psychology/psychology-07/reel.mp4",
+    "caption": "psychology/psychology-07/caption.txt",
+    "checks": {
+      "video": "1080x1920 H.264",
+      "audio": "AAC",
+      "mean_volume_db": -17.7,
+      "peak_db": -0.0,
+      "duration": "passed",
+      "licensed_voice_checksum": "passed"
+    }
+  },
+  {
+    "id": "psychology-08",
+    "title": "My idea feels better",
+    "theme": "psychology",
+    "duration_seconds": 17.833333,
+    "voice": "Piper LJSpeech high",
+    "video": "psychology/psychology-08/reel.mp4",
+    "caption": "psychology/psychology-08/caption.txt",
+    "checks": {
+      "video": "1080x1920 H.264",
+      "audio": "AAC",
+      "mean_volume_db": -17.2,
+      "peak_db": -0.0,
+      "duration": "passed",
+      "licensed_voice_checksum": "passed"
+    }
+  },
+  {
+    "id": "psychology-09",
+    "title": "Why deadlines help",
+    "theme": "psychology",
+    "duration_seconds": 19.208333,
+    "voice": "Piper LJSpeech high",
+    "video": "psychology/psychology-09/reel.mp4",
+    "caption": "psychology/psychology-09/caption.txt",
+    "checks": {
+      "video": "1080x1920 H.264",
+      "audio": "AAC",
+      "mean_volume_db": -18.2,
+      "peak_db": -0.3,
+      "duration": "passed",
+      "licensed_voice_checksum": "passed"
+    }
+  },
+  {
+    "id": "psychology-10",
+    "title": "Face yes, name no",
+    "theme": "psychology",
+    "duration_seconds": 21.25,
+    "voice": "Piper LJSpeech high",
+    "video": "psychology/psychology-10/reel.mp4",
+    "caption": "psychology/psychology-10/caption.txt",
+    "checks": {
+      "video": "1080x1920 H.264",
+      "audio": "AAC",
+      "mean_volume_db": -18.0,
+      "peak_db": -0.4,
+      "duration": "passed",
+      "licensed_voice_checksum": "passed"
+    }
+  },
+  {
+    "id": "books-01",
+    "title": "Make starting smaller",
+    "theme": "books",
+    "duration_seconds": 19.708333,
+    "voice": "Piper LJSpeech high",
+    "video": "books/books-01/reel.mp4",
+    "caption": "books/books-01/caption.txt",
+    "checks": {
+      "video": "1080x1920 H.264",
+      "audio": "AAC",
+      "mean_volume_db": -17.6,
+      "peak_db": -0.3,
+      "duration": "passed",
+      "licensed_voice_checksum": "passed"
+    }
+  },
+  {
+    "id": "books-02",
+    "title": "Protect the transition",
+    "theme": "books",
+    "duration_seconds": 18.291667,
+    "voice": "Piper LJSpeech high",
+    "video": "books/books-02/reel.mp4",
+    "caption": "books/books-02/caption.txt",
+    "checks": {
+      "video": "1080x1920 H.264",
+      "audio": "AAC",
+      "mean_volume_db": -18.2,
+      "peak_db": -0.4,
+      "duration": "passed",
+      "licensed_voice_checksum": "passed"
+    }
+  },
+  {
+    "id": "books-03",
+    "title": "Why this rose?",
+    "theme": "books",
+    "duration_seconds": 19.75,
+    "voice": "Piper LJSpeech high",
+    "video": "books/books-03/reel.mp4",
+    "caption": "books/books-03/caption.txt",
+    "checks": {
+      "video": "1080x1920 H.264",
+      "audio": "AAC",
+      "mean_volume_db": -18.2,
+      "peak_db": -0.4,
+      "duration": "passed",
+      "licensed_voice_checksum": "passed"
+    }
+  },
+  {
+    "id": "books-04",
+    "title": "Who controls the rules?",
+    "theme": "books",
+    "duration_seconds": 17.75,
+    "voice": "Piper LJSpeech high",
+    "video": "books/books-04/reel.mp4",
+    "caption": "books/books-04/caption.txt",
+    "checks": {
+      "video": "1080x1920 H.264",
+      "audio": "AAC",
+      "mean_volume_db": -17.4,
+      "peak_db": -0.4,
+      "duration": "passed",
+      "licensed_voice_checksum": "passed"
+    }
+  },
+  {
+    "id": "books-05",
+    "title": "After you create it",
+    "theme": "books",
+    "duration_seconds": 19.333333,
+    "voice": "Piper LJSpeech high",
+    "video": "books/books-05/reel.mp4",
+    "caption": "books/books-05/caption.txt",
+    "checks": {
+      "video": "1080x1920 H.264",
+      "audio": "AAC",
+      "mean_volume_db": -18.6,
+      "peak_db": -0.2,
+      "duration": "passed",
+      "licensed_voice_checksum": "passed"
+    }
+  },
+  {
+    "id": "books-06",
+    "title": "Bilbo's small choice",
+    "theme": "books",
+    "duration_seconds": 18.125,
+    "voice": "Piper LJSpeech high",
+    "video": "books/books-06/reel.mp4",
+    "caption": "books/books-06/caption.txt",
+    "checks": {
+      "video": "1080x1920 H.264",
+      "audio": "AAC",
+      "mean_volume_db": -17.3,
+      "peak_db": -0.3,
+      "duration": "passed",
+      "licensed_voice_checksum": "passed"
+    }
+  },
+  {
+    "id": "books-07",
+    "title": "The first impression",
+    "theme": "books",
+    "duration_seconds": 19.291667,
+    "voice": "Piper LJSpeech high",
+    "video": "books/books-07/reel.mp4",
+    "caption": "books/books-07/caption.txt",
+    "checks": {
+      "video": "1080x1920 H.264",
+      "audio": "AAC",
+      "mean_volume_db": -18.0,
+      "peak_db": -0.4,
+      "duration": "passed",
+      "licensed_voice_checksum": "passed"
+    }
+  },
+  {
+    "id": "books-08",
+    "title": "Plan for temptation",
+    "theme": "books",
+    "duration_seconds": 18.625,
+    "voice": "Piper LJSpeech high",
+    "video": "books/books-08/reel.mp4",
+    "caption": "books/books-08/caption.txt",
+    "checks": {
+      "video": "1080x1920 H.264",
+      "audio": "AAC",
+      "mean_volume_db": -18.3,
+      "peak_db": -0.4,
+      "duration": "passed",
+      "licensed_voice_checksum": "passed"
+    }
+  },
+  {
+    "id": "books-09",
+    "title": "Why show the future?",
+    "theme": "books",
+    "duration_seconds": 18.291667,
+    "voice": "Piper LJSpeech high",
+    "video": "books/books-09/reel.mp4",
+    "caption": "books/books-09/caption.txt",
+    "checks": {
+      "video": "1080x1920 H.264",
+      "audio": "AAC",
+      "mean_volume_db": -17.6,
+      "peak_db": -0.3,
+      "duration": "passed",
+      "licensed_voice_checksum": "passed"
+    }
+  },
+  {
+    "id": "books-10",
+    "title": "Before the contest",
+    "theme": "books",
+    "duration_seconds": 19.458333,
+    "voice": "Piper LJSpeech high",
+    "video": "books/books-10/reel.mp4",
+    "caption": "books/books-10/caption.txt",
+    "checks": {
+      "video": "1080x1920 H.264",
+      "audio": "AAC",
+      "mean_volume_db": -17.2,
+      "peak_db": -0.0,
+      "duration": "passed",
+      "licensed_voice_checksum": "passed"
+    }
+  },
+  {
+    "id": "movies-01",
+    "title": "The unseen threat",
+    "theme": "movies",
+    "duration_seconds": 19.416667,
+    "voice": "Piper LJSpeech high",
+    "video": "movies/movies-01/reel.mp4",
+    "caption": "movies/movies-01/caption.txt",
+    "checks": {
+      "video": "1080x1920 H.264",
+      "audio": "AAC",
+      "mean_volume_db": -18.9,
+      "peak_db": -0.2,
+      "duration": "passed",
+      "licensed_voice_checksum": "passed"
+    }
+  },
+  {
+    "id": "movies-02",
+    "title": "A leap that rises",
+    "theme": "movies",
+    "duration_seconds": 17.875,
+    "voice": "Piper LJSpeech high",
+    "video": "movies/movies-02/reel.mp4",
+    "caption": "movies/movies-02/caption.txt",
+    "checks": {
+      "video": "1080x1920 H.264",
+      "audio": "AAC",
+      "mean_volume_db": -17.3,
+      "peak_db": -0.2,
+      "duration": "passed",
+      "licensed_voice_checksum": "passed"
+    }
+  },
+  {
+    "id": "movies-03",
+    "title": "We know, he doesn't",
+    "theme": "movies",
+    "duration_seconds": 20.0,
+    "voice": "Piper LJSpeech high",
+    "video": "movies/movies-03/reel.mp4",
+    "caption": "movies/movies-03/caption.txt",
+    "checks": {
+      "video": "1080x1920 H.264",
+      "audio": "AAC",
+      "mean_volume_db": -18.1,
+      "peak_db": -0.1,
+      "duration": "passed",
+      "licensed_voice_checksum": "passed"
+    }
+  },
+  {
+    "id": "movies-04",
+    "title": "Why Sadness matters",
+    "theme": "movies",
+    "duration_seconds": 21.208333,
+    "voice": "Piper LJSpeech high",
+    "video": "movies/movies-04/reel.mp4",
+    "caption": "movies/movies-04/caption.txt",
+    "checks": {
+      "video": "1080x1920 H.264",
+      "audio": "AAC",
+      "mean_volume_db": -17.6,
+      "peak_db": -0.3,
+      "duration": "passed",
+      "licensed_voice_checksum": "passed"
+    }
+  },
+  {
+    "id": "movies-05",
+    "title": "A choice you can see",
+    "theme": "movies",
+    "duration_seconds": 20.125,
+    "voice": "Piper LJSpeech high",
+    "video": "movies/movies-05/reel.mp4",
+    "caption": "movies/movies-05/caption.txt",
+    "checks": {
+      "video": "1080x1920 H.264",
+      "audio": "AAC",
+      "mean_volume_db": -18.5,
+      "peak_db": -0.5,
+      "duration": "passed",
+      "licensed_voice_checksum": "passed"
+    }
+  },
+  {
+    "id": "movies-06",
+    "title": "The ripple before danger",
+    "theme": "movies",
+    "duration_seconds": 21.125,
+    "voice": "Piper LJSpeech high",
+    "video": "movies/movies-06/reel.mp4",
+    "caption": "movies/movies-06/caption.txt",
+    "checks": {
+      "video": "1080x1920 H.264",
+      "audio": "AAC",
+      "mean_volume_db": -17.6,
+      "peak_db": -0.0,
+      "duration": "passed",
+      "licensed_voice_checksum": "passed"
+    }
+  },
+  {
+    "id": "movies-07",
+    "title": "A story without speeches",
+    "theme": "movies",
+    "duration_seconds": 18.666667,
+    "voice": "Piper LJSpeech high",
+    "video": "movies/movies-07/reel.mp4",
+    "caption": "movies/movies-07/caption.txt",
+    "checks": {
+      "video": "1080x1920 H.264",
+      "audio": "AAC",
+      "mean_volume_db": -17.4,
+      "peak_db": -0.2,
+      "duration": "passed",
+      "licensed_voice_checksum": "passed"
+    }
+  },
+  {
+    "id": "movies-08",
+    "title": "The ending you finish",
+    "theme": "movies",
+    "duration_seconds": 19.708333,
+    "voice": "Piper LJSpeech high",
+    "video": "movies/movies-08/reel.mp4",
+    "caption": "movies/movies-08/caption.txt",
+    "checks": {
+      "video": "1080x1920 H.264",
+      "audio": "AAC",
+      "mean_volume_db": -18.0,
+      "peak_db": 0.0,
+      "duration": "passed",
+      "licensed_voice_checksum": "passed"
+    }
+  },
+  {
+    "id": "movies-09",
+    "title": "Fast but readable",
+    "theme": "movies",
+    "duration_seconds": 19.708333,
+    "voice": "Piper LJSpeech high",
+    "video": "movies/movies-09/reel.mp4",
+    "caption": "movies/movies-09/caption.txt",
+    "checks": {
+      "video": "1080x1920 H.264",
+      "audio": "AAC",
+      "mean_volume_db": -17.0,
+      "peak_db": -0.0,
+      "duration": "passed",
+      "licensed_voice_checksum": "passed"
+    }
+  },
+  {
+    "id": "movies-10",
+    "title": "The hero needs help",
+    "theme": "movies",
+    "duration_seconds": 21.125,
+    "voice": "Piper LJSpeech high",
+    "video": "movies/movies-10/reel.mp4",
+    "caption": "movies/movies-10/caption.txt",
+    "checks": {
+      "video": "1080x1920 H.264",
+      "audio": "AAC",
+      "mean_volume_db": -17.3,
+      "peak_db": -0.4,
+      "duration": "passed",
+      "licensed_voice_checksum": "passed"
+    }
+  },
+  {
+    "id": "anime-01",
+    "title": "Rules create tension",
+    "theme": "anime",
+    "duration_seconds": 19.583333,
+    "voice": "Piper LJSpeech high",
+    "video": "anime/anime-01/reel.mp4",
+    "caption": "anime/anime-01/caption.txt",
+    "checks": {
+      "video": "1080x1920 H.264",
+      "audio": "AAC",
+      "mean_volume_db": -18.7,
+      "peak_db": -0.4,
+      "duration": "passed",
+      "licensed_voice_checksum": "passed"
+    }
+  },
+  {
+    "id": "anime-02",
+    "title": "What is the real cost?",
+    "theme": "anime",
+    "duration_seconds": 19.875,
+    "voice": "Piper LJSpeech high",
+    "video": "anime/anime-02/reel.mp4",
+    "caption": "anime/anime-02/caption.txt",
+    "checks": {
+      "video": "1080x1920 H.264",
+      "audio": "AAC",
+      "mean_volume_db": -17.6,
+      "peak_db": -0.4,
+      "duration": "passed",
+      "licensed_voice_checksum": "passed"
+    }
+  },
+  {
+    "id": "anime-03",
+    "title": "Different dreams, one crew",
+    "theme": "anime",
+    "duration_seconds": 18.0,
+    "voice": "Piper LJSpeech high",
+    "video": "anime/anime-03/reel.mp4",
+    "caption": "anime/anime-03/caption.txt",
+    "checks": {
+      "video": "1080x1920 H.264",
+      "audio": "AAC",
+      "mean_volume_db": -17.6,
+      "peak_db": -0.2,
+      "duration": "passed",
+      "licensed_voice_checksum": "passed"
+    }
+  },
+  {
+    "id": "anime-04",
+    "title": "Why a rival matters",
+    "theme": "anime",
+    "duration_seconds": 21.625,
+    "voice": "Piper LJSpeech high",
+    "video": "anime/anime-04/reel.mp4",
+    "caption": "anime/anime-04/caption.txt",
+    "checks": {
+      "video": "1080x1920 H.264",
+      "audio": "AAC",
+      "mean_volume_db": -18.6,
+      "peak_db": -0.0,
+      "duration": "passed",
+      "licensed_voice_checksum": "passed"
+    }
+  },
+  {
+    "id": "anime-05",
+    "title": "Empathy inside a fight",
+    "theme": "anime",
+    "duration_seconds": 19.416667,
+    "voice": "Piper LJSpeech high",
+    "video": "anime/anime-05/reel.mp4",
+    "caption": "anime/anime-05/caption.txt",
+    "checks": {
+      "video": "1080x1920 H.264",
+      "audio": "AAC",
+      "mean_volume_db": -18.1,
+      "peak_db": -0.5,
+      "duration": "passed",
+      "licensed_voice_checksum": "passed"
+    }
+  },
+  {
+    "id": "anime-06",
+    "title": "Make progress visible",
+    "theme": "anime",
+    "duration_seconds": 20.5,
+    "voice": "Piper LJSpeech high",
+    "video": "anime/anime-06/reel.mp4",
+    "caption": "anime/anime-06/caption.txt",
+    "checks": {
+      "video": "1080x1920 H.264",
+      "audio": "AAC",
+      "mean_volume_db": -17.6,
+      "peak_db": -0.0,
+      "duration": "passed",
+      "licensed_voice_checksum": "passed"
+    }
+  },
+  {
+    "id": "anime-07",
+    "title": "A short meeting, a long life",
+    "theme": "anime",
+    "duration_seconds": 18.208333,
+    "voice": "Piper LJSpeech high",
+    "video": "anime/anime-07/reel.mp4",
+    "caption": "anime/anime-07/caption.txt",
+    "checks": {
+      "video": "1080x1920 H.264",
+      "audio": "AAC",
+      "mean_volume_db": -18.0,
+      "peak_db": -0.5,
+      "duration": "passed",
+      "licensed_voice_checksum": "passed"
+    }
+  },
+  {
+    "id": "anime-08",
+    "title": "Power is not maturity",
+    "theme": "anime",
+    "duration_seconds": 21.875,
+    "voice": "Piper LJSpeech high",
+    "video": "anime/anime-08/reel.mp4",
+    "caption": "anime/anime-08/caption.txt",
+    "checks": {
+      "video": "1080x1920 H.264",
+      "audio": "AAC",
+      "mean_volume_db": -17.8,
+      "peak_db": -0.2,
+      "duration": "passed",
+      "licensed_voice_checksum": "passed"
+    }
+  },
+  {
+    "id": "anime-09",
+    "title": "Confidence through action",
+    "theme": "anime",
+    "duration_seconds": 20.291667,
+    "voice": "Piper LJSpeech high",
+    "video": "anime/anime-09/reel.mp4",
+    "caption": "anime/anime-09/caption.txt",
+    "checks": {
+      "video": "1080x1920 H.264",
+      "audio": "AAC",
+      "mean_volume_db": -17.9,
+      "peak_db": -0.0,
+      "duration": "passed",
+      "licensed_voice_checksum": "passed"
+    }
+  },
+  {
+    "id": "anime-10",
+    "title": "The edge of the map",
+    "theme": "anime",
+    "duration_seconds": 21.125,
+    "voice": "Piper LJSpeech high",
+    "video": "anime/anime-10/reel.mp4",
+    "caption": "anime/anime-10/caption.txt",
+    "checks": {
+      "video": "1080x1920 H.264",
+      "audio": "AAC",
+      "mean_volume_db": -17.8,
+      "peak_db": -0.4,
+      "duration": "passed",
+      "licensed_voice_checksum": "passed"
+    }
+  }
+]

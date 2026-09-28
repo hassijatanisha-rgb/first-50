@@ -1,0 +1,51 @@
+id,title,theme,duration_seconds,voice,video,caption
+science-01,Why metal feels colder,science,16.291667,Piper LJSpeech high,science/science-01/reel.mp4,science/science-01/caption.txt
+science-02,The wheel that resists,science,16.75,Piper LJSpeech high,science/science-02/reel.mp4,science/science-02/caption.txt
+science-03,Why round windows?,science,18.541667,Piper LJSpeech high,science/science-03/reel.mp4,science/science-03/caption.txt
+science-04,Steel on water?,science,16.541667,Piper LJSpeech high,science/science-04/reel.mp4,science/science-04/caption.txt
+science-05,A bubble's rainbow,science,18.333333,Piper LJSpeech high,science/science-05/reel.mp4,science/science-05/caption.txt
+science-06,Noise cancellation's catch,science,18.291667,Piper LJSpeech high,science/science-06/reel.mp4,science/science-06/caption.txt
+science-07,The useful gap,science,19.083333,Piper LJSpeech high,science/science-07/reel.mp4,science/science-07/caption.txt
+science-08,Pressure changes boiling,science,18.083333,Piper LJSpeech high,science/science-08/reel.mp4,science/science-08/caption.txt
+science-09,Stars aren't flickering,science,19.625,Piper LJSpeech high,science/science-09/reel.mp4,science/science-09/caption.txt
+science-10,Microwave hot spots,science,17.916667,Piper LJSpeech high,science/science-10/reel.mp4,science/science-10/caption.txt
+psychology-01,Familiar is not learned,psychology,18.333333,Piper LJSpeech high,psychology/psychology-01/reel.mp4,psychology/psychology-01/caption.txt
+psychology-02,Suddenly everywhere,psychology,18.416667,Piper LJSpeech high,psychology/psychology-02/reel.mp4,psychology/psychology-02/caption.txt
+psychology-03,The first number,psychology,19.083333,Piper LJSpeech high,psychology/psychology-03/reel.mp4,psychology/psychology-03/caption.txt
+psychology-04,The money is gone,psychology,16.708333,Piper LJSpeech high,psychology/psychology-04/reel.mp4,psychology/psychology-04/caption.txt
+psychology-05,"Same choice, new frame",psychology,18.416667,Piper LJSpeech high,psychology/psychology-05/reel.mp4,psychology/psychology-05/caption.txt
+psychology-06,A one-second ping?,psychology,18.625,Piper LJSpeech high,psychology/psychology-06/reel.mp4,psychology/psychology-06/caption.txt
+psychology-07,Heard it before?,psychology,18.958333,Piper LJSpeech high,psychology/psychology-07/reel.mp4,psychology/psychology-07/caption.txt
+psychology-08,My idea feels better,psychology,17.833333,Piper LJSpeech high,psychology/psychology-08/reel.mp4,psychology/psychology-08/caption.txt
+psychology-09,Why deadlines help,psychology,19.208333,Piper LJSpeech high,psychology/psychology-09/reel.mp4,psychology/psychology-09/caption.txt
+psychology-10,"Face yes, name no",psychology,21.25,Piper LJSpeech high,psychology/psychology-10/reel.mp4,psychology/psychology-10/caption.txt
+books-01,Make starting smaller,books,19.708333,Piper LJSpeech high,books/books-01/reel.mp4,books/books-01/caption.txt
+books-02,Protect the transition,books,18.291667,Piper LJSpeech high,books/books-02/reel.mp4,books/books-02/caption.txt
+books-03,Why this rose?,books,19.75,Piper LJSpeech high,books/books-03/reel.mp4,books/books-03/caption.txt
+books-04,Who controls the rules?,books,17.75,Piper LJSpeech high,books/books-04/reel.mp4,books/books-04/caption.txt
+books-05,After you create it,books,19.333333,Piper LJSpeech high,books/books-05/reel.mp4,books/books-05/caption.txt
+books-06,Bilbo's small choice,books,18.125,Piper LJSpeech high,books/books-06/reel.mp4,books/books-06/caption.txt
+books-07,The first impression,books,19.291667,Piper LJSpeech high,books/books-07/reel.mp4,books/books-07/caption.txt
+books-08,Plan for temptation,books,18.625,Piper LJSpeech high,books/books-08/reel.mp4,books/books-08/caption.txt
+books-09,Why show the future?,books,18.291667,Piper LJSpeech high,books/books-09/reel.mp4,books/books-09/caption.txt
+books-10,Before the contest,books,19.458333,Piper LJSpeech high,books/books-10/reel.mp4,books/books-10/caption.txt
+movies-01,The unseen threat,movies,19.416667,Piper LJSpeech high,movies/movies-01/reel.mp4,movies/movies-01/caption.txt
+movies-02,A leap that rises,movies,17.875,Piper LJSpeech high,movies/movies-02/reel.mp4,movies/movies-02/caption.txt
+movies-03,"We know, he doesn't",movies,20.0,Piper LJSpeech high,movies/movies-03/reel.mp4,movies/movies-03/caption.txt
+movies-04,Why Sadness matters,movies,21.208333,Piper LJSpeech high,movies/movies-04/reel.mp4,movies/movies-04/caption.txt
+movies-05,A choice you can see,movies,20.125,Piper LJSpeech high,movies/movies-05/reel.mp4,movies/movies-05/caption.txt
+movies-06,The ripple before danger,movies,21.125,Piper LJSpeech high,movies/movies-06/reel.mp4,movies/movies-06/caption.txt
+movies-07,A story without speeches,movies,18.666667,Piper LJSpeech high,movies/movies-07/reel.mp4,movies/movies-07/caption.txt
+movies-08,The ending you finish,movies,19.708333,Piper LJSpeech high,movies/movies-08/reel.mp4,movies/movies-08/caption.txt
+movies-09,Fast but readable,movies,19.708333,Piper LJSpeech high,movies/movies-09/reel.mp4,movies/movies-09/caption.txt
+movies-10,The hero needs help,movies,21.125,Piper LJSpeech high,movies/movies-10/reel.mp4,movies/movies-10/caption.txt
+anime-01,Rules create tension,anime,19.583333,Piper LJSpeech high,anime/anime-01/reel.mp4,anime/anime-01/caption.txt
+anime-02,What is the real cost?,anime,19.875,Piper LJSpeech high,anime/anime-02/reel.mp4,anime/anime-02/caption.txt
+anime-03,"Different dreams, one crew",anime,18.0,Piper LJSpeech high,anime/anime-03/reel.mp4,anime/anime-03/caption.txt
+anime-04,Why a rival matters,anime,21.625,Piper LJSpeech high,anime/anime-04/reel.mp4,anime/anime-04/caption.txt
+anime-05,Empathy inside a fight,anime,19.416667,Piper LJSpeech high,anime/anime-05/reel.mp4,anime/anime-05/caption.txt
+anime-06,Make progress visible,anime,20.5,Piper LJSpeech high,anime/anime-06/reel.mp4,anime/anime-06/caption.txt
+anime-07,"A short meeting, a long life",anime,18.208333,Piper LJSpeech high,anime/anime-07/reel.mp4,anime/anime-07/caption.txt
+anime-08,Power is not maturity,anime,21.875,Piper LJSpeech high,anime/anime-08/reel.mp4,anime/anime-08/caption.txt
+anime-09,Confidence through action,anime,20.291667,Piper LJSpeech high,anime/anime-09/reel.mp4,anime/anime-09/caption.txt
+anime-10,The edge of the map,anime,21.125,Piper LJSpeech high,anime/anime-10/reel.mp4,anime/anime-10/caption.txt
